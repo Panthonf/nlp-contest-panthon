@@ -155,3 +155,5 @@ cython_debug/
 # files text
 input.txt
 ans.txt
+model.h5
+model_*.h5
