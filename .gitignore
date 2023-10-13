@@ -155,7 +155,7 @@ cython_debug/
 # files text
 input.txt
 ans.txt
-model.h5
+# model.h5
 model_*.h5
 predictions.txt
 Project_Classifier_eye.ipynb
